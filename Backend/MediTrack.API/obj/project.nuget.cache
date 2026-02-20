@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AM+n0LFe0e4=",
+  "success": true,
+  "projectFilePath": "D:\\Job\\Healthcare Booking APP\\meditrack-healthcare-system\\Backend\\MediTrack.API\\MediTrack.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smuth\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\smuth\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
